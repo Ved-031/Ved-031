@@ -6,11 +6,12 @@
 
 I am passionate about software development, open source, and learning new technologies. Currently, I am focusing on improving my skills in:
 
-- Programming Languages: TypeScript, C++, Java, JavaScript
-- Web Development: Next.js, Node.js, React
+- Programming Languages: TypeScript, C++, JavaScript
+- Web Development: Next.js
 - Databases: MySQL, MongoDB
+- ORM: Prisma
 - Backend as a service: Firebase, Appwrite
-- Other Tools and Technologies: Git, Docker, AWS
+- Other Tools and Technologies: Git
 
 ## Projects
 
@@ -33,9 +34,10 @@ Here are a few projects I've worked on:
 
 ## Skills
 
-- **Programming Languages:** C++, Java, TypeScript, JavaScript
-- **Web Development:** HTML, CSS, Bootstrap, Tailwind, JavaScript, React, Node.js, Express
+- **Programming Languages:** C++, TypeScript, JavaScript
+- **Web Development:** HTML, CSS, Tailwind, Shadcn, JavaScript, React, Node.js, Express, NextJs
 - **Databases:** MySQL, MongoDB
+- **ORM:** Prisma
 - **Tools and Technologies:** Git, Firebase, Appwrite
 
 ## Contact Me
