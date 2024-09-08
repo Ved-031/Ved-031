@@ -9,8 +9,8 @@ I am passionate about software development, open source, and learning new techno
 - Programming Languages: TypeScript, C++, JavaScript
 - Web Development: Next.js
 - Databases: MySQL, MongoDB
-- ORM: Prisma
-- Backend as a service: Firebase, Appwrite
+- ORM: Mongoose, Prisma
+- Backend as a service: Firebase, Supabase, Appwrite
 - Other Tools and Technologies: Git
 
 ## Projects
@@ -20,12 +20,12 @@ Here are a few projects I've worked on:
 ### Project 1: Food Delivery Website
 - **Description:** It's a app to browse variety of dishes with admin panel.
 - **Technologies Used:** React, Tailwind CSS, Node.js, Express.js, Mongodb.
-- **Link:** [GitHub Repository URL]()
+- **Link:** [[ GitHub Repository URL ](https://github.com/Ved-031/Food-Delivery-Website)]
 
-### Project 2: Weather Forecast App
-- **Description:** Forecast the weather of different location acorss the globe.
-- **Technologies Used:** HTML, CSS, JS, Open-weather-api.
-- **Link:** [GitHub Repository URL]()
+### Project 2: Educine - LMS
+- **Description:** Leraning managment system website.
+- **Technologies Used:** NextJS 14, Typescript, Mongodb, Prisma, Tailwind CSS, Shadcn UI.
+- **Link:** [[ GitHub Repository URL ](https://github.com/Ved-031/Educine-LMS)]
 
 ## Education
 
@@ -36,9 +36,9 @@ Here are a few projects I've worked on:
 
 - **Programming Languages:** C++, TypeScript, JavaScript
 - **Web Development:** HTML, CSS, Tailwind, Shadcn, JavaScript, React, Node.js, Express, NextJs
-- **Databases:** MySQL, MongoDB
-- **ORM:** Prisma
-- **Tools and Technologies:** Git, Firebase, Appwrite
+- **Databases:** MongoDB
+- **ORM:** Mongoose, Prisma
+- **Tools and Technologies:** Git, Firebase, Supabse, Appwrite
 
 ## Contact Me
 
