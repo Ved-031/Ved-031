@@ -17,20 +17,10 @@ I am passionate about software development, open source, and learning new techno
 
 Here are a few projects I've worked on:
 
-### Project 1: College Pro - College Management Website
-- **Description:** It's a website to onboard the college online and integrate technology.
-- **Technologies Used:** NextJS, MongoDB, Prisma, Shadcn UI, Tailwind CSS
-- **Link:** [[ GitHub Repository URL ](https://github.com/Ved-031/College-Pro)]
-
-### Project 2: Food Delivery Website
-- **Description:** It's a app to browse variety of dishes with admin panel.
-- **Technologies Used:** React, Tailwind CSS, Node.js, Express.js, Mongodb.
-- **Link:** [[ GitHub Repository URL ](https://github.com/Ved-031/Food-Delivery-Website)]
-
-### Project 3: Educine - LMS
-- **Description:** Leraning managment system website.
-- **Technologies Used:** NextJS 14, Typescript, Mongodb, Prisma, Tailwind CSS, Shadcn UI.
-- **Link:** [[ GitHub Repository URL ](https://github.com/Ved-031/Educine-LMS)]
+### Project 1: Proger - Project Management Website
+- **Description:** Website inspired by Jira Atlassian, Built using NextJs, HonoJS and Appwrite.
+- **Technologies Used:** NextJS, HonoJS, Shadcn UI, Tailwind CSS, Appwrite
+- **Link:** [[ GitHub Repository URL ](https://github.com/Ved-031/Proger)]
 
 ## Education
 
